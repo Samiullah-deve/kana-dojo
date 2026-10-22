@@ -370,6 +370,12 @@
   "termB": "mansion (English)",
   "explanation": "マンション means apartment building in Japanese. (Set 3)",
   "example": "駅前のマンションに住んでいます。"
-}
+},
+  {
+    "termA": "ナイーブ (naibu)",
+    "termB": "naive (English)",
+    "explanation": "Often means sensitive/delicate in Japanese. (Set 4)",
+    "example": "彼は意外とナイーブな性格だ。"
+  }
 
 ]
