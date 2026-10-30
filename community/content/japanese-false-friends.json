@@ -376,5 +376,30 @@
   "termB": "naive (English)",
   "explanation": "Often means sensitive/delicate in Japanese. (Set 5)",
   "example": "彼は意外とナイーブな性格だ。"
-}
+},
+{
+  "termA": "クレーム (kureemu)",
+  "termB": "claim (English)",
+  "explanation": "In Japanese it usually means complaint. (Set 6)",
+  "example": "お客様からクレームが届いた。"
+},
+  {
+  "termA": "クレーム (kureemu)",
+  "termB": "claim (English)",
+  "explanation": "In Japanese it usually means complaint. (Set 6)",
+  "example": "お客様からクレームが届いた。"
+  },
+  {
+  "termA": "ホッチキス (hocchikisu)",
+  "termB": "Hotchkiss (name)",
+  "explanation": "ホッチキス means stapler. (Set 5)",
+  "example": "資料をホッチキスで留めてください。"
+  },
+  {
+    "termA": "マンション (manshon)",
+    "termB": "mansion (English)",
+    "explanation": "マンション means apartment building in Japanese. (Set 2)",
+    "example": "駅前のマンションに住んでいます。"
+  }
 ]
+
